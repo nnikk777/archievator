@@ -1,0 +1,48 @@
+Start testing: Jun 13 13:13 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: test_func
+1/1 Test: test_func
+Command: "D:/AandP/PROJECT/build/test_func.exe" "--force-colors" "-d"
+Directory: D:/AandP/PROJECT/build
+"test_func" start time: Jun 13 13:13 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+D:\AandP\PROJECT\src\test_func.cpp:10:
+TEST CASE:  LZ77
+
+DEEPEST SUBCASE STACK REACHED (DIFFERENT FROM THE CURRENT ONE):
+  Compression and Decompression with Repeated Patterns
+
+0.001695 s: LZ77
+===============================================================================
+D:\AandP\PROJECT\src\test_func.cpp:43:
+TEST CASE:  LZW compression tests
+
+DEEPEST SUBCASE STACK REACHED (DIFFERENT FROM THE CURRENT ONE):
+  Single character input
+
+0.000133 s: LZW compression tests
+===============================================================================
+D:\AandP\PROJECT\src\test_func.cpp:60:
+TEST CASE:  RLE Compression and Decompression Tests
+
+DEEPEST SUBCASE STACK REACHED (DIFFERENT FROM THE CURRENT ONE):
+  Compression and Decompression with Large Input
+
+0.000023 s: RLE Compression and Decompression Tests
+===============================================================================
+[doctest] test cases:  3 |  3 passed | 0 failed | 0 skipped
+[doctest] assertions: 10 | 10 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_func" end time: Jun 13 13:13 RTZ 2 (çèìà)
+"test_func" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 13 13:13 RTZ 2 (çèìà)

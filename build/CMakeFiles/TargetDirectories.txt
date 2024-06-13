@@ -1,0 +1,5 @@
+D:/AandP/PROJECT/build/CMakeFiles/Compression.dir
+D:/AandP/PROJECT/build/CMakeFiles/test_func.dir
+D:/AandP/PROJECT/build/CMakeFiles/test.dir
+D:/AandP/PROJECT/build/CMakeFiles/edit_cache.dir
+D:/AandP/PROJECT/build/CMakeFiles/rebuild_cache.dir
